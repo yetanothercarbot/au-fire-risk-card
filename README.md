@@ -1,6 +1,8 @@
 # Australian Fire Risk Indicator Card
 
-A fire indication card that uses data from the [BOM Integration](https://github.com/bremor/bureau_of_meteorology) and displays it following [AFAC's guidelines](https://www.afac.com.au/docs/default-source/afdrs/afdrs-signage_update-style_guide.pdf).
+A very basic fire indication card that uses data from the [BOM Integration](https://github.com/bremor/bureau_of_meteorology) and displays it following [AFAC's guidelines](https://www.afac.com.au/docs/default-source/afdrs/afdrs-signage_update-style_guide.pdf) (mostly).
+
+![Card Demo](card-demo.png)
 
 ## Installation
 
