@@ -8,8 +8,9 @@ A very basic fire indication card that uses data from the [BOM Integration](http
 
 ### Install through HACS
 
-1. Add as a custom repository - HACS -> Front-end -> Overflow menu -> Custom Repositories.
-2. Install through HACS.
+1. Navigate to HACS -> Front-end -> Overflow menu -> Custom Repositories.
+2. Insert the repository URL (`https://github.com/yetanothercarbot/au-fire-risk-card`) and select type as 'Lovelace'
+3. Install as normal through HACS.
 
 ### Manual install
 
